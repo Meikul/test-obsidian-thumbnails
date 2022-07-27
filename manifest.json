@@ -1,7 +1,7 @@
 {
-	"id": "obsidian-thumbnails",
-	"name": "Thumbnails",
-	"version": "1.2.0",
+	"id": "test-obsidian-thumbnails",
+	"name": "Test Thumbnails",
+	"version": "1.0.2",
 	"minAppVersion": "0.14.0",
 	"description": "Insert video thumbnails into your notes",
 	"author": "Michael Harris",
